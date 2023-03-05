@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370998297475",
+    "project_id": "movie-app-clone-960e4",
+    "storage_bucket": "movie-app-clone-960e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370998297475:android:7c2961369f920ce03e6cb6",
+        "android_client_info": {
+          "package_name": "com.mazlumerkek.movie_app_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370998297475-bigjpk130fpvmbovcfdpfeq006niaik9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJoh5e7T1lHEjk4YlbACy1lyAPVfYknk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370998297475-bigjpk130fpvmbovcfdpfeq006niaik9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
