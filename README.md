@@ -4,14 +4,14 @@ A new Flutter project(Movie Clone App).
 
 ## Packages
 
-cupertino_icons
-change_app_package_name
-cloud_firestore
-firebase_auth
-firebase_core
-firebase_database
-hive
-hive_flutter
-build_runner
-hive_generator
-http
+1. cupertino_icons
+2. change_app_package_name
+3. cloud_firestore
+4. firebase_auth
+5. firebase_core
+6. firebase_database
+7. hive
+8. hive_flutter
+9. build_runner
+10. hive_generator
+11. http
